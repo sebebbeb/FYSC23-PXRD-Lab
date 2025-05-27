@@ -1,4 +1,4 @@
-# FYSC23 Powder XRD Analysis
+# FYSC23/FYSC33 Powder XRD Analysis
 
 This project provides a Python-based tool for analyzing powder X-ray diffraction (XRD) data. It determines the lattice constant of a sample and automatically decides whether the sample has a face-centered cubic (fcc) or body-centered cubic (bcc) structure based on linear regression quality. Additionally, the project includes options for cleaning raw data files and running crystallite size calculations using the `powerxrd` module.
 
